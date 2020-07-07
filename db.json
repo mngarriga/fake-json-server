@@ -1,0 +1,107 @@
+{"messages": [{"etapesMateriels": [{
+   "numero": "8790",
+   "dateCirculation": "2020-06-15",
+   "dateHeureModif": "2020-06-15T05:51:08.019Z",
+   "dateHeureDepart": "2020-06-15T05:03:00.000Z",
+   "dateHeureArrivee": "2020-06-15T06:52:00.000Z",
+   "lieuOrigine":    {
+      "cr": "0087",
+      "ci": "471003",
+      "ch": "BV",
+      "libPr": "Rennes BÃ¢timent Voyageurs"
+   },
+   "lieuDestination":    {
+      "cr": "0087",
+      "ci": "391003",
+      "ch": "BV",
+      "libPr": "Paris-Montparnasse BÃ¢timent Voyageurs"
+   },
+   "elements":    [
+            {
+         "rang": 1,
+         "orientation": 0,
+         "noAffectation": "384",
+         "dateAffectation": "2020-06-12T07:40:09.440Z",
+         "famMateriel": "G",
+         "typeMateriel": "A",
+         "numerotationVoitureTete": "11",
+         "numerotationVoitureQueue": "20",
+         "noCial": "8080",
+         "nature": 1,
+         "libNature": "Commercial",
+         "segmentPrecedent":          {
+            "numero": "",
+            "noCial": "8080",
+            "dateCirculation": "2020-06-15",
+            "dateHeureDepart": "2020-06-15T04:07:00.000Z",
+            "dateHeureArrivee": "2020-06-15T04:57:00.000Z",
+            "nature": 1,
+            "libNature": "Commercial",
+            "lieuOrigine":             {
+               "cr": "0087",
+               "ci": "478107",
+               "ch": "00",
+               "libPr": "St-Malo BÃ¢timent Voyageurs"
+            }
+         },
+         "segmentSuivant":          {
+            "numero": "",
+            "noCial": "908790",
+            "dateCirculation": "2020-06-15",
+            "dateHeureDepart": "2020-06-15T07:07:00.000Z",
+            "dateHeureArrivee": "2020-06-15T07:22:00.000Z",
+            "nature": 2,
+            "libNature": "Vide voyageur",
+            "lieuDestination":             {
+               "cr": "0087",
+               "ci": "391805",
+               "ch": "MI",
+               "libPr": "Montrouge-ChÃ¢tillon EIMM (MatÃ©riel)"
+            }
+         }
+      },
+            {
+         "rang": 0,
+         "orientation": 0,
+         "noAffectation": "390",
+         "dateAffectation": "2020-06-14T11:12:10.150Z",
+         "famMateriel": "G",
+         "typeMateriel": "J",
+         "numerotationVoitureTete": "1",
+         "numerotationVoitureQueue": "10",
+         "noCial": "8790",
+         "nature": 1,
+         "libNature": "Commercial",
+         "segmentPrecedent":          {
+            "numero": "",
+            "noCial": "999331",
+            "dateCirculation": "2020-06-15",
+            "dateHeureDepart": "2020-06-15T02:25:00.000Z",
+            "dateHeureArrivee": "2020-06-15T04:32:00.000Z",
+            "nature": 2,
+            "libNature": "Vide voyageur",
+            "lieuOrigine":             {
+               "cr": "0087",
+               "ci": "391003",
+               "ch": "BV",
+               "libPr": "Paris-Montparnasse BÃ¢timent Voyageurs"
+            }
+         },
+         "segmentSuivant":          {
+            "numero": "",
+            "noCial": "908790",
+            "dateCirculation": "2020-06-15",
+            "dateHeureDepart": "2020-06-15T07:07:00.000Z",
+            "dateHeureArrivee": "2020-06-15T07:22:00.000Z",
+            "nature": 2,
+            "libNature": "Vide voyageur",
+            "lieuDestination":             {
+               "cr": "0087",
+               "ci": "391805",
+               "ch": "MI",
+               "libPr": "Montrouge-ChÃ¢tillon EIMM (MatÃ©riel)"
+            }
+         }
+      }
+   ]
+}]}]}
